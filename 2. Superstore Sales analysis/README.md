@@ -1,9 +1,11 @@
 # Superstore Sales Analysis in Tableau
 
-![Dashboard](Screenshot%202026-08-30%20104447.png)
+![Dashboard](Dashboard%203.png)
 
 ## Description
-An interactive sales dashboard designed to provide a clear overview of business performance. The dashboard displays key metrics such as Total Sales, Total Profit, and Total Discount, with visualizations showing sales and profit trends over time, sales performance by region, profit by product category, and sales by purchasing channel. It also includes filters for years and quarters to support easier data analysis and decision-making.
+An interactive Tableau sales analysis dashboard developed using the Superstore Sales dataset to evaluate business performance across product sub-categories, regions, and time periods. The dashboard provides a detailed view of total sales and profit trends by year and quarter, highlights sales performance across different product sub-categories, and visualizes the geographical distribution of sales across regions.
+
+The dashboard enables users to analyze sales performance over time, compare regional results, identify high-performing product sub-categories, and understand changes in sales and profitability. Interactive Tableau visualizations and filters support data-driven decision-making and make it easier to identify important sales trends and business opportunities.
 
 ## Skills
-Data Analysis, Data Visualization, Dashboard Development, DAX, Data Cleaning, Data Transformation, Business Intelligence, KPI Reporting, Sales Analysis, Profit Analysis
+Tableau, Data Analysis, Data Visualization, Dashboard Development, Business Intelligence, Sales Analysis, Profit Analysis, Superstore Dataset, Data Cleaning, Data Transformation, KPI Reporting, Time-Series Analysis, Geographical Analysis, Interactive Dashboards
